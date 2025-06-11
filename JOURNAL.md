@@ -20,7 +20,8 @@ I already have a [Raspberry Pi CM5](https://www.raspberrypi.com/products/compute
 
 Because I went with the Raspberry Pi CM5, I will need to design an IO board. I started with a schematic, I downloaded the [official raspberry pi cm5 IO board design files](https://rpltd.co/cm5io-design-files) for reference. I don't have any experience with designing PCBs yet.
 
-![image](https://github.com/user-attachments/assets/74311f15-c132-4792-b350-7bedab839daa)
+![image](https://github.com/user-attachments/assets/d816617a-8c7a-458e-bbcd-6ca73103f103)
+
 ![image](https://github.com/user-attachments/assets/833083e0-3cb0-4023-90af-00143bedb5fb)
 
 I started laying out the components. I precisely measured the distances on my 5 inch screen and drew its outline.
