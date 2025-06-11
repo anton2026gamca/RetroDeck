@@ -20,9 +20,7 @@ I need:
 I want the console to have some compute power, maybe I will want to run more advanced games on it in the future.
 I already have a [Raspberry Pi CM5](https://www.raspberrypi.com/products/compute-module-5), [5 inch display](https://www.elecrow.com/rc050s-hdmi-5-inch-800x480-capacitive-touch-monitor-built-in-speaker-with-backlight-control.html?idd=6) and [PiSugar 3 Plus](https://www.pisugar.com/products/pisugar-3-plus-raspberry-pi-ups) laying around, so I've decided to use those in this project. The gamepad will be built in to the case. I will design that later.
 
-Because I went with the Raspberry Pi CM5, I will need to design an IO board. I started with a schematic, I downloaded the [official raspberry pi cm5 IO board design files](https://rpltd.co/cm5io-design-files) for reference.
-
-I just copied things from the official IO board because I don't have any experience with designing PCBs yett and I want it to work. I tried my best to keep it as original as possible.
+Because I went with the Raspberry Pi CM5, I will need to design an IO board. I started with a schematic, I downloaded the [official raspberry pi cm5 IO board design files](https://rpltd.co/cm5io-design-files) for reference. I don't have any experience with designing PCBs yett.
 ![image](https://github.com/user-attachments/assets/74311f15-c132-4792-b350-7bedab839daa)
 ![image](https://github.com/user-attachments/assets/833083e0-3cb0-4023-90af-00143bedb5fb)
 
