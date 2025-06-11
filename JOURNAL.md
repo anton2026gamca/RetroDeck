@@ -22,7 +22,7 @@ Because I went with the Raspberry Pi CM5, I will need to design an IO board. I s
 
 ![image](https://github.com/user-attachments/assets/d816617a-8c7a-458e-bbcd-6ca73103f103)
 
-![image](https://github.com/user-attachments/assets/833083e0-3cb0-4023-90af-00143bedb5fb)
+![image](https://github.com/user-attachments/assets/ee02b9e1-235f-4121-9758-7ab1a2f0a689)
 
 I started laying out the components. I precisely measured the distances on my 5 inch screen and drew its outline.
 
