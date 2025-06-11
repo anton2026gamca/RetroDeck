@@ -6,7 +6,7 @@ created_at: "2025-06-11"
 ---
 
 
-## 11. 6. 2025 (4.5 hours): The beggining
+## 11. 6. 2025 (4.5 hours):
 
 Firstly I chose what main parts will I need for this project:
   - a "computer"
