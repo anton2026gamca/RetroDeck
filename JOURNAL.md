@@ -5,15 +5,10 @@ description: "It's a DIY game console made for emulating retro games!"
 created_at: "2025-06-11"
 ---
 
+### This is my journey of creating the RetroDeck game console. 
+Total hours: 4.5
 
 ## 11. 6. 2025 (4.5 hours)
-
-Firstly I chose what main parts will I need for this project:
-  - a "computer"
-  - a display
-  - a battery
-  - a gamepad
-  - a case
 
 I want the console to have some compute power, maybe I will want to run more advanced games on it in the future.
 I already have a [Raspberry Pi CM5](https://www.raspberrypi.com/products/compute-module-5), [5 inch display](https://www.elecrow.com/rc050s-hdmi-5-inch-800x480-capacitive-touch-monitor-built-in-speaker-with-backlight-control.html?idd=6) and [PiSugar 3 Plus](https://www.pisugar.com/products/pisugar-3-plus-raspberry-pi-ups) laying around, so I've decided to use those in this project. The gamepad will be built in to the case. I will design that later.
