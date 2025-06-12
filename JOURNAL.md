@@ -9,15 +9,10 @@ created_at: "2025-06-11"
 ## 11. 6. 2025 (4.5 hours)
 
 Firstly I chose what main parts will I need for this project:
-
   - a "computer"
-  
   - a display
-  
   - a battery
-  
   - a gamepad
-  
   - a case
 
 I want the console to have some compute power, maybe I will want to run more advanced games on it in the future.
