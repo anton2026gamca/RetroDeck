@@ -5,7 +5,7 @@ description: "It's a DIY game console made for emulating retro games!"
 created_at: "2025-06-11"
 ---
 
-### This is my journey of creating the RetroDeck game console. 
+# This is my journey of creating the RetroDeck game console. 
 Total hours: 4.5
 
 ## 11. 6. 2025 (4.5 hours)
