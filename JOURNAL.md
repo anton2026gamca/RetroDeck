@@ -6,7 +6,7 @@ created_at: "2025-06-11"
 ---
 
 This is my journey of creating the RetroDeck game console. <br>
-Total hours: 4.5
+Total hours: 8.5
 
 ## 11. 6. 2025 (4.5 hours)
 
@@ -29,7 +29,7 @@ I started laying out the components. I precisely measured the distances on my 5 
 ![Screenshot 2025-06-11 154423](https://github.com/user-attachments/assets/1abfea29-b796-4895-937e-14d929d374df)
 
 
-## 12. 6. 2025
+## 12. 6. 2025 (4 hours)
 
 I started wiring the components that I layed out yesterday. I tried to keep the board 2 layered, because more layers increase the cost. <br>
 I tuned also the length of the P and N tracks of the USB and HDMI.
