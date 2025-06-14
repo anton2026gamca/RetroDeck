@@ -51,5 +51,5 @@ Today I finished the wiring of the board. It was a bit harder than yesterday, bu
 
 ![image](https://github.com/user-attachments/assets/9c4f00ec-2b83-44e5-a07e-a8cdc9b9a26d)
 
-I don't really like the wiring, so I might redo it some day. Also the inner layer is made for 1 oz copper and that is another $14 at JLCPCB. <br>
+I don't really like the wiring, so I might redo it some day. Also the inner layers are made for 1 oz copper and that is another $14 at JLCPCB. <br>
 I really hope this PCB is going to work.
