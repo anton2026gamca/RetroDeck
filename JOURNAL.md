@@ -6,7 +6,7 @@ created_at: "2025-06-11"
 ---
 
 This is my journey of creating the RetroDeck game console. <br>
-Total hours: 8.5
+Total hours: 12.25
 
 ## 11. 6. 2025 (4.5 hours)
 
@@ -18,7 +18,7 @@ I want the console to have 1 HDMI port, 1 USB C port for data and 2 joysticks wi
 
 Because I went with the Raspberry Pi CM5, I will need to design an IO board. I downloaded the [official raspberry pi cm5 IO board design files](https://rpltd.co/cm5io-design-files) for reference. I don't have any experience with designing PCBs yet.
 
-![image](https://github.com/user-attachments/assets/d816617a-8c7a-458e-bbcd-6ca73103f103)
+![image](https://github.com/user-attachments/assets/0a0c9e3e-010a-425a-8ac7-4fbea0cfbc26)
 
 I put a USB C port for charging the PiSugar. It is supposed to be like an USB C cable, though I'm not sure if it's going to work. I'll find out later.
 
@@ -42,5 +42,14 @@ Yeah, it was too long ... and I had to redesign the whole thing.
 Here is the new component placement I came up with:
 ![image](https://github.com/user-attachments/assets/e8c3a5b9-1fc6-48b7-992f-7be9a816c550)
 
-I also removed the SD card, because I don't need it, I don't have the CM5 Lite version. <br>
-I started wiring it, but didn't finish it today.
+I also removed the SD card, because I don't need it, I don't have the CM5 Lite version.
+
+
+## 13. 6. 2025 (3.75 hours)
+
+Today I finished the wiring of the board. It was a bit harder than yesterday, but I got it. I firstly wired everything but the +5V, +3.3V and GND lines (Which was a mistake I think, because I had to put them on the inner layers due to lack of space in the outer layers).
+
+![image](https://github.com/user-attachments/assets/9c4f00ec-2b83-44e5-a07e-a8cdc9b9a26d)
+
+I don't really like the wiring, so I might redo it some day. Also the inner layer is made for 1 oz copper and that is another $14 at JLCPCB. <br>
+I really hope this PCB is going to work.
