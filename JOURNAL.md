@@ -53,3 +53,16 @@ Today I finished the wiring of the board. It was a bit harder than yesterday, bu
 
 I don't really like the wiring, so I might redo it some day. Also the inner layers are made for 1 oz copper and that is another $14 at JLCPCB. <br>
 I really hope this PCB is going to work.
+
+
+## 16. 6. 2025 (5.5 hours)
+
+I started to make the schematic for the built in gamepad. I want the board to be symmetrical to lower PCB manugacturing price (Each side will be the same PCB). Each board will have an ATmega32U4 with the buttons, etc. The 2 boards will communicate through I2C and 1 will be connected through USB to the Raspberry Pi CM5.
+
+I downloaded the [SparkFun Pro Micro](https://github.com/sparkfun/Pro_Micro) schematic for reference, I had no clue how to wire the ATmega32U4.
+
+![image](https://github.com/user-attachments/assets/ba31222e-6a77-42f3-8f6f-c41919fac0f7)
+
+The PCBs will be connected through an FFC cable and to the CM5 probably too, but I'm not yet sure (I'll need to modify the IO board).
+
+![image](https://github.com/user-attachments/assets/1fe6444a-f4e8-44da-b599-e7104a7defdd)
