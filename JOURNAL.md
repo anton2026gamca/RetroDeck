@@ -6,7 +6,7 @@ created_at: "2025-06-11"
 ---
 
 This is my journey of creating the RetroDeck game console. <br>
-Total hours: 12.25
+Total hours: 21.25
 
 ## 11. 6. 2025 (4.5 hours)
 
@@ -57,12 +57,25 @@ I really hope this PCB is going to work.
 
 ## 16. 6. 2025 (5.5 hours)
 
-I started to make the schematic for the built in gamepad. I want the board to be symmetrical to lower PCB manugacturing price (Each side will be the same PCB). Each board will have an ATmega32U4 with the buttons, etc. The 2 boards will communicate through I2C and 1 will be connected through USB to the Raspberry Pi CM5.
+I started to make the schematic for the built in gamepad. I want the board to be symmetrical to lower PCB manugacturing price (Each side will be the same PCB). Each board will have an ATmega32U4 and the other stuff. The 2 boards will communicate through I2C and 1 will be connected through USB to the Raspberry Pi CM5.
 
 I downloaded the [SparkFun Pro Micro](https://github.com/sparkfun/Pro_Micro) schematic for reference, I had no clue how to wire the ATmega32U4.
 
 ![image](https://github.com/user-attachments/assets/ba31222e-6a77-42f3-8f6f-c41919fac0f7)
 
-The PCBs will be connected through an FFC cable and to the CM5 probably too, but I'm not yet sure (I'll need to modify the IO board).
+The PCBs will be connected through an FFC cable and to the CM5 too, but I'm not yet sure (I'll need to modify the IO board).
 
-![image](https://github.com/user-attachments/assets/1fe6444a-f4e8-44da-b599-e7104a7defdd)
+![image](https://github.com/user-attachments/assets/fc7935fb-7002-4a0e-a1e4-5512e2b4ca2f)
+NOTE: The USB-C is there just for debugging
+
+
+## 22. 6. 2025 (3)
+
+Firstly, I changed the buttons and the joystick. I chose smaller buttons and the nintendo joycon joystick, because I like the feel of it. For the shoulder button I'll be using a special 90 degree angled button. Hope I connected the joystick right :)
+
+![image](https://github.com/user-attachments/assets/5070bef5-bd65-4186-b249-ed6f4c4b0069)
+![image](https://github.com/user-attachments/assets/285c1ecc-1bf5-4674-a960-7546252e2b8c)
+
+I also assigned a 3d model to most components to help me later with designing the case.
+
+![image](https://github.com/user-attachments/assets/7cea2feb-6cf8-485a-a637-c3a112a0f169)
